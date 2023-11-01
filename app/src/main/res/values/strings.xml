@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">OlxApp</string>
+    <string name="my_products_title">My Products</string>
+
+    <string-array name="states">
+
+        <item>SP</item>
+        <item>MG</item>
+        <item>RJ</item>
+        <item>SC</item>
+
+    </string-array>
+
+    <string-array name="categories">
+
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+        <item>Category 4</item>
+        <item>Category 5</item>
+        <item>Category 6</item>
+
+    </string-array>
+
+    <string name="loading_products">Loading Products</string>
+    <string name="product_details">Product Details</string>
+    <string name="select_state">Select the state</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_category">Select the category</string>
+    <string name="select_region_first">Select a region first</string>
+    <string name="fill_description">Fill in the description field</string>
+    <string name="fill_phone">Fill in the phone field</string>
+    <string name="fill_value">Fill in the value field</string>
+    <string name="fill_title">Fill in the title field</string>
+    <string name="fill_category">Fill in the category field</string>
+    <string name="fill_state">Fill in the state field</string>
+    <string name="select_one_image">Select at least one image</string>
+    <string name="saving_product">Saving Product</string>
+    <string name="upload_error">Error on uploading</string>
+    <string name="permissions_denied">Permissions denied</string>
+    <string name="accept_permissions">Accept the permissions</string>
+    <string name="confirm">Confirm</string>
+    <string name="registration_completed">Registration Completed</string>
+    <string name="registration_error">Registration Error</string>
+    <string name="logged_in_success">Logged in successfully</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="fill_fields">Fill in all fields</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="check_phone">Check Phone</string>
+    <string name="region">Region</string>
+    <string name="category">Category</string>
+    <string name="contact_phone">Contact Phone</string>
+    <string name="register_product">Register Product</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="access">Access</string>
+    <string name="my_products">My Products</string>
+    <string name="logout">Log out</string>
+    <string name="signin_signout">Sign in / Sign out</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
